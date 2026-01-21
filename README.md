@@ -1,16 +1,38 @@
-# teacher
+## Teacher
 
-A new Flutter project.
+A base Flutter app to check teacher world rank.
 
-## Getting Started
+# 🚀 Project Overview
 
-This project is a starting point for a Flutter application.
+teacher is a Flutter-based starter application that aims to provide a platform for checking the world rank of teachers — a concept that could be used in education apps, ranking systems, or teacher performance dashboards.
 
-A few resources to get you started if this is your first Flutter project:
+This repository is currently a starting Flutter project, with foundational structure and configuration, ready for you to build on.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# 🔧 Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the repository:
+
+`` git clone https://github.com/Joeltabe/teacher.git
+cd teacher``
+
+
+Install dependencies:
+
+`` flutter pub get ``
+
+
+Run the app:
+
+``flutter run``
+
+# 📝 Contributing
+
+Contributions and feature enhancements are welcome! Here are some ideas:
+
+Add authentication (Google / Email)
+
+Launch a real API for ranking data
+
+Add filters (by region, subject, score range)
+
+Improve UI/UX
